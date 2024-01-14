@@ -2,7 +2,7 @@
 
 ## Descripción
 Este proyecto tiene como objetivo proporcionar un recurso integral para aprender el lenguaje de programación Rust.
-Está diseñado tanto para mi aprendizaje personal como para ayudar a otros que deseen adentrarse en Rust.
+Está diseñado para facilitar mi aprendizaje personal y simultáneamente servir como un recurso para otros que deseen adentrarse en Rust.
 
 ## Objetivos
 1. **Aprender Rust**: Explorar las características únicas de Rust, como la gestión de memoria sin recolector de basura, el sistema de tipos y la concurrencia segura.
@@ -10,7 +10,7 @@ Está diseñado tanto para mi aprendizaje personal como para ayudar a otros que 
 
 ## ¿Cómo usar este repositorio?
 - **Para aprendices**: Sigue los proyectos en orden, ya que cada uno está diseñado para construir sobre el conocimiento del anterior.
-- **Para colaboradores**: Si tienes sugerencias o mejoras, por favor consulta la sección Contribuciones.
+- **Para colaboradores**: Por definir aún.
 
 ## Proyectos a realizar
 
@@ -31,12 +31,12 @@ Está diseñado tanto para mi aprendizaje personal como para ayudar a otros que 
 - **Descripción**: Programa que recibe las divisas de una API externa y se va actualizando cada cierto tiempo.
 
 ### 5. API de carrito de compras
-- **Objetivo de aprendizaje**: Creación y exposición de rutas para ser consumida desde otro programa externo.
-- **Descripción**: 
+- **Objetivo de aprendizaje**: Creación y exposición de rutas para ser consumidas desde otro programa externo.
+- **Descripción**: Desarrollo de una API que permita la gestión de un carrito de compras, con endpoints para agregar, eliminar, actualizar y visualizar productos.
 
 ## Recursos y Materiales de Aprendizaje
 - Documentación oficial de Rust: [Aprende Rust](https://www.rust-lang.org/es/learn)
 
 ## Prerrequisitos
-- Nociones de programación.
-- Muchas ganas de aprender.
+- Nociones básicas de programación, incluyendo comprensión de bucles, condicionales y funciones.
+- Entusiasmo por el aprendizaje continuo y disposición para enfrentar los desafíos únicos de Rust.
